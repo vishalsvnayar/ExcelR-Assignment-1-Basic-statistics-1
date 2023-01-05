@@ -1,1 +1,1 @@
-# ExcerR-Assignment-1-Basic-statistics-1
+# ExcelR-Assignment-1-Basic-statistics-1
